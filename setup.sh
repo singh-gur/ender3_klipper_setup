@@ -12,3 +12,4 @@ cat << eof >> printer.cfg
 
 eof
 popd
+
