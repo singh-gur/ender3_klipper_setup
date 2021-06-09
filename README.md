@@ -6,6 +6,6 @@
 
 
 ## Install configs
-```bash
-curl "link to setup file" | sh
+```
+curl https://raw.githubusercontent.com/hawk-i-/ender3_klipper_setup/main/setup.sh | sh
 ```
